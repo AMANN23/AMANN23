@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi There! 👋
 
 <!--
 **AMANN23/AMANN23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Twitter and Spotify Clone App!
 - 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: (adnan_mann@outlook.com) (https://www.linkedin.com/in/adnanmann/)
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/adnanmann/) 
