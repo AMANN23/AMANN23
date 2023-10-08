@@ -7,6 +7,9 @@ A Mechanical Engineering graduate and also a recent graduate from the prestigiou
 - 🌱 I’m currently learning **TypeScript** through Udemy!
 
 - 📫 Contact me on email: **adnan_mann@outlook.com**
+  
+- 📄 Find my CV in my pinned repositories
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
