@@ -6,7 +6,7 @@ A Mechanical Engineering graduate and also a recent graduate from the prestigiou
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 📫 How to reach me **adnan_mann@outlook.com**
+- 📫 Contact me on email: **adnan_mann@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
