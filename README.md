@@ -4,7 +4,7 @@ A Mechanical Engineering graduate and also a recent graduate from the prestigiou
 
 - 🔭 I’m currently working on **A Twitter and Spotify Clone App!**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** through Udemy!
 
 - 📫 Contact me on email: **adnan_mann@outlook.com**
 
