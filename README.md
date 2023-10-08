@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+
 - 🔭 I’m currently working on a Twitter and Spotify Clone App!
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: (adnan_mann@outlook.com) (https://www.linkedin.com/in/adnanmann/)
