@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adnan Mann</h1>
 <h3 align="center">A Software Enthusiast</h3>
+- A recent graduate from the prestigious Makers Academy 
 
 - 🔭 I’m currently working on **A Twitter and Spotify Clone App!**
 
