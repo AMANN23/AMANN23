@@ -8,7 +8,7 @@ A Mechanical Engineering graduate and also a recent graduate from the prestigiou
 
 - 📫 Contact me on email: **adnan_mann@outlook.com**
   
-- 📄 Find my CV in my pinned repositories [here](https://github.com/AMANN23/CV)
+- 📄 Find my CV [here](https://github.com/AMANN23/CV)
   
 
 <h3 align="left">Connect with me:</h3>
