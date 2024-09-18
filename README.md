@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Adnan Mann</h1>
 <h3 align="center">A Junior DevOps Engineer</h3>
-A Mechanical Engineering graduate and also a recent graduate from the prestigious Makers Academy completing both the Software and Cloud Specialism. Now, currently looking for a junior role in the Informaion & Technology industry!
+A Mechanical Engineering graduate and also a recent graduate from the prestigious Makers Academy completing both the Software and Cloud Specialism routes. Now, currently looking for a junior role in the Information & Technology industry!
 
-- 🔭 I’m currently working on a **Spotify Clone App!**
+- 🔭 I’m currently working on improving my **Python Skills!**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m futher developing my knowledge in cloud engineering by exploring advanced **Terraform and Kubernetes**
 
-- 📫 Contact me on email: **adnan_mann@outlook.com**
+- 📫 Contact me by email on: **adnan_mann@outlook.com**
   
 - 📄 Find my GitHub CV [here](https://github.com/AMANN23/CV)
   
