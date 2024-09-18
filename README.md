@@ -4,7 +4,7 @@ A Mechanical Engineering graduate and also a recent graduate from the prestigiou
 
 - 🔭 I’m currently working on improving my **Python Skills!**
 
-- 🌱 I’m futher developing my knowledge in cloud engineering by exploring advanced **Terraform and Kubernetes**
+- 🌱 I’m further developing my knowledge in cloud engineering by exploring advanced **Terraform and Kubernetes**
 
 - 📫 Contact me by email on: **adnan_mann@outlook.com**
   
