@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adnan Mann</h1>
 <h3 align="center">A Junior DevOps Engineer</h3>
-A Mechanical Engineering graduate and also a recent graduate from the prestigious Makers Academy completing both the Software and Cloud Specialism. Now, currently looking for a junior role in the informaion & technology industry!
+A Mechanical Engineering graduate and also a recent graduate from the prestigious Makers Academy completing both the Software and Cloud Specialism. Now, currently looking for a junior role in the Informaion & Technology industry!
 
 - 🔭 I’m currently working on a **Spotify Clone App!**
 
